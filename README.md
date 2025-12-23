@@ -42,7 +42,8 @@ Every KPI and chart instantly adjusts based on slicer selections—making the da
 
 ## Dashboard
 
-![NIGERIA LIBRARY USER ENGAGEMENT DASHBOARD xlsx](https://github.com/user-attachments/assets/f8d54316-edd4-4d6a-853d-c57345a592f4)
+![PHARMACY DASHBOARD xlsx](https://github.com/user-attachments/assets/8ec7caa7-dd1d-4a7a-8773-afe149d9c758)
+
 ## Project Outcome
 This project successfully showcases the ability to:
 -	Build structured datasets from scratch
