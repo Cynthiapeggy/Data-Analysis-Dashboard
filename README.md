@@ -13,7 +13,7 @@ At the top of the dashboard, I designed five KPI cards to highlight the most imp
 -	Total Books Borrowed
 -	Total Fines Collected
 
-These KPI cards automatically update when filtered using slicers, making them dynamic and highly responsive.
+These pivot tables automatically update when filtered using slicers, making them dynamic and highly responsive.
 ## Interactive Charts and Visualizations
 To provide clearer insights, I added multiple charts powered by PivotTables:
 -	Satisfaction Score Distribution (Doughnut Chart)
